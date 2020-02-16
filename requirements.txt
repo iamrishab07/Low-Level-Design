@@ -1,0 +1,23 @@
+Tic Tac Toe 
+
+- There will be two player
+- Game will be played on a board
+- Each player can mark turn by turn on a square of the board
+- If there's any horizontal or vertical or diagonal match, one player will win the game
+- Game can either be in playing state, win state or draw state and can have result or can't
+- Each player stores the number of game they played and wins and losses
+- Tournament keeps record of the games
+
+
+Behaviours
+- Player can make move
+- Player can see the board status
+- Player can see the board 
+- Player can see their stats
+- Players can enquery about previous game history
+- Game need to show it's result
+- Tournament needs to show it's history - game wise or user wise 
+
+
+How to run the application:
+run main.cpp file and follow the instructions on the screen.
